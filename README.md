@@ -1,3 +1,3 @@
 # demo
 This is my first git repository.
-author - Ajay Patil
+Author - Ajay Patil
